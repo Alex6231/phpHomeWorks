@@ -2,7 +2,7 @@
 // 1
 function wtf($a, $b) {
     // return "Предложение" ?????
-    return $a." ".$b;
+    return $a."+".$b."=".$a+$b;
 }
 
 // 2
