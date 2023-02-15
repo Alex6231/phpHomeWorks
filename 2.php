@@ -1,7 +1,6 @@
 <?php
 // 1
-function wtf($a, $b) {
-    // return "Предложение" ?????
+function sum($a, $b) {
     return $a."+".$b."=".$a+$b;
 }
 
